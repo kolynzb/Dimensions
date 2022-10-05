@@ -6,3 +6,4 @@ library dimensions;
 // }
 
 export 'src/screen_dimensions.dart';
+export 'src/dimension_spaces.dart';
